@@ -1,0 +1,48 @@
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+label {
+  display: block;
+  margin: 20px 0 10px 0;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+button {
+  width: 100%;
+  background-color: #1b29a7;
+  color: #FFF;
+  text-transform: uppercase;
+  border: 0;
+  height: 48px;
+  margin-top: 20px;
+}
+
+button:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.error-input {
+  font-size: 14px;
+  color: #590684;
+}
+
+.alert {
+  padding: 20px;
+  background-color: #efefef;
+  color: #000;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.alert.alert--sucess {
+  background-color: #baf7b4;
+  color: #319627;
+}
