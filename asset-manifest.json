@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tarefa-bootcamp-react-form/static/css/main.525d7c59.chunk.css",
-    "main.js": "/tarefa-bootcamp-react-form/static/js/main.0dccc75b.chunk.js",
-    "main.js.map": "/tarefa-bootcamp-react-form/static/js/main.0dccc75b.chunk.js.map",
+    "main.js": "/tarefa-bootcamp-react-form/static/js/main.9c3b174d.chunk.js",
+    "main.js.map": "/tarefa-bootcamp-react-form/static/js/main.9c3b174d.chunk.js.map",
     "runtime-main.js": "/tarefa-bootcamp-react-form/static/js/runtime-main.84782d5e.js",
     "runtime-main.js.map": "/tarefa-bootcamp-react-form/static/js/runtime-main.84782d5e.js.map",
     "static/js/2.fd124eda.chunk.js": "/tarefa-bootcamp-react-form/static/js/2.fd124eda.chunk.js",
     "static/js/2.fd124eda.chunk.js.map": "/tarefa-bootcamp-react-form/static/js/2.fd124eda.chunk.js.map",
     "index.html": "/tarefa-bootcamp-react-form/index.html",
-    "precache-manifest.c1f5bf5fafe2d4012cd9532cf359e721.js": "/tarefa-bootcamp-react-form/precache-manifest.c1f5bf5fafe2d4012cd9532cf359e721.js",
+    "precache-manifest.d241184a2de7d63ba944e17d01e0257e.js": "/tarefa-bootcamp-react-form/precache-manifest.d241184a2de7d63ba944e17d01e0257e.js",
     "service-worker.js": "/tarefa-bootcamp-react-form/service-worker.js",
     "static/css/main.525d7c59.chunk.css.map": "/tarefa-bootcamp-react-form/static/css/main.525d7c59.chunk.css.map",
     "static/js/2.fd124eda.chunk.js.LICENSE.txt": "/tarefa-bootcamp-react-form/static/js/2.fd124eda.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.84782d5e.js",
     "static/js/2.fd124eda.chunk.js",
     "static/css/main.525d7c59.chunk.css",
-    "static/js/main.0dccc75b.chunk.js"
+    "static/js/main.9c3b174d.chunk.js"
   ]
 }

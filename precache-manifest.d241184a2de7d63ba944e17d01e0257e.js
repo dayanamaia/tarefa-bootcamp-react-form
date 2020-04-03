@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e240dcf5a802892b9887c9b68f47e657",
+    "revision": "625cbd9a3a19f72e00dbe8a442a034df",
     "url": "/tarefa-bootcamp-react-form/index.html"
   },
   {
-    "revision": "518baeba5b9e2fbdbbb8",
+    "revision": "f19271de374a38ee6396",
     "url": "/tarefa-bootcamp-react-form/static/css/main.525d7c59.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tarefa-bootcamp-react-form/static/js/2.fd124eda.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "518baeba5b9e2fbdbbb8",
-    "url": "/tarefa-bootcamp-react-form/static/js/main.0dccc75b.chunk.js"
+    "revision": "f19271de374a38ee6396",
+    "url": "/tarefa-bootcamp-react-form/static/js/main.9c3b174d.chunk.js"
   },
   {
     "revision": "35306d86ec4aaf600bf0",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tarefa-bootcamp-react-form/precache-manifest.c1f5bf5fafe2d4012cd9532cf359e721.js"
+  "/tarefa-bootcamp-react-form/precache-manifest.d241184a2de7d63ba944e17d01e0257e.js"
 );
 
 self.addEventListener('message', (event) => {
